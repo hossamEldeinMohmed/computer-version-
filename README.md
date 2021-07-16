@@ -1,2 +1,1 @@
-# computer-version-
-optical-mark-recognition 
+# optical-mark-recognition 
